@@ -1,2 +1,35 @@
-# coderandom-web
-CodeRandom Web is the official website of CodeRandom Podcast — a news portal with reviews and content about technology, games, and pop culture, developed with Next.js and focused on performance, SEO, and user experience.
+# CODE RANDOM Web
+
+O **CodeRandom Web** é o front-end oficial do projeto **Code Random**, um portal de notícias, reviews e conteúdos sobre tecnologia, games e cultura pop.
+
+Este repositório contém exclusivamente o **site público**, desenvolvido com foco em:
+
+- ⚡ Performance
+- 🔍 SEO
+- 📱 Responsividade
+- 🧠 Arquitetura escalável
+
+O conteúdo exibido no site é gerenciado através de um **CMS Headless**, acessado apenas por editores e administradores. Usuários finais não precisam de autenticação para consumir o conteúdo.
+
+## 🚀 Tecnologias utilizadas
+
+- **Next.js**
+- **TypeScript**
+- **Tailwind CSS**
+- **CMS Headless**
+- **Vercel** 
+
+## 🔐 Autenticação
+
+Este projeto **não possui sistema de login para usuários comuns**.  
+
+## 🤝 Contribuições
+
+Este é um repositório público, porém:
+- Não são permitidos pushes diretos na branch principal
+- Contribuições devem ser feitas via **Pull Request**
+- Pull Requests estão sujeitos à revisão
+
+## 📄 Licença
+
+A licença será definida futuramente.
