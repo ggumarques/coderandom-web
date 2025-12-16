@@ -1,5 +1,13 @@
 # CODE RANDOM Web
 
+<p align="center">
+  <img 
+    src="https://sytrdyuwrzmjuobkwpsb.supabase.co/storage/v1/object/public/idv/crfav.png"
+    alt="CodeRandom Logo"
+    width="200"
+  />
+</p>
+
 O **CodeRandom Web** é o front-end oficial do projeto **Code Random**, um portal de notícias, reviews e conteúdos sobre tecnologia, games e cultura pop.
 
 Este repositório contém exclusivamente o **site público**, desenvolvido com foco em:
